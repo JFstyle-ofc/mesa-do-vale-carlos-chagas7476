@@ -1,0 +1,12 @@
+MESA DO VALE — VERSÃO SEM PASTA ASSETS
+
+1. Extraia o ZIP.
+2. No mesmo repositório GitHub ligado à Vercel, envie index.html, cardapio.html, pedido.html, sobre.html, gestao.html e vercel.json. Substitua os antigos quando solicitado.
+3. Clique em Commit changes e aguarde a nova publicação da Vercel.
+4. Abra o endereço do site e pressione Ctrl+Shift+R.
+
+Todos os arquivos ficam na raiz do repositório. As páginas já incluem estilo, JavaScript e foto; não precisam da pasta assets.
+
+A publicação anterior não é alterada só por baixar o ZIP: é preciso substituir os arquivos no GitHub. Não é necessário criar outro projeto na Vercel.
+
+Supabase: o SQL é executado no SQL Editor, não no navegador. Ainda falta a URL do seu projeto Supabase no campo supabaseUrl, dentro de cada página HTML. A chave pública anteriormente informada já foi incluída. O login e os pedidos reais só funcionarão após conectar o Supabase.
